@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小小云盘</string>
+    <string name="prompt_email">电子邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录/ 注册</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="welcome">欢迎！</string>
+    <string name="invalid_username">用户名无效</string>
+    <string name="invalid_password">密码须长于5字符</string>
+    <string name="login_failed">登陆失败</string>
+    <string name="next">下一步</string>
+    <string name="previous">上一步</string>
+    <string name="logout">注销</string>
+    <string name="exit">退出</string>
+    <string name="upload">上传</string>
+    <string name="title_activity_main" translatable="false">小小云盘</string>
+</resources>

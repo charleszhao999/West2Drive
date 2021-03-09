@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/done"
+        android:icon="@drawable/ic_finish_light"
+        android:title="Done"
+        android:background="@color/white"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:showAsAction="always"
+        app:theme="@style/ThemeOverlay.AppCompat.Light"
+        style="@style/ToolbarTheme"/>
+</menu>

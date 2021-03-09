@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logout">Log Out</string>
+    <string name="exit">Exit</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_main" translatable="false">West2Drive</string>
+</resources>
